@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3996
+
+提取portmon输出文件中的读写字符，统计读写次数。打开protmon文件，输入:Portmon。需要python3.
